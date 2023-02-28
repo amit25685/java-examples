@@ -1,4 +1,4 @@
-package com.controlstatements;
+package com.controlstatements.ifelse;
 
 public class IfElseStudentEx {
 	public static void main(String[] args) {

@@ -11,5 +11,4 @@ public class CommentExample2 {
 		 * float j = 5.9; float k = 4.4; System.out.println( j + k );
 		 */
 	}
-
 }

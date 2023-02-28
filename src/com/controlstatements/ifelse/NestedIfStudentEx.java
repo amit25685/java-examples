@@ -1,4 +1,4 @@
-package com.controlstatements;
+package com.controlstatements.ifelse;
 
 public class NestedIfStudentEx {
 	public static void main(String[] args) {
