@@ -1,5 +1,8 @@
 package com.loop;
 
+//Java Program to illustrate the use of continue statement  
+//with label inside an inner loop to break outer loop  
+
 public class BreakExample3 {
 	public static void main(String[] args) {
 		aa: for (int i = 1; i <= 3; i++) {

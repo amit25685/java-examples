@@ -1,4 +1,4 @@
-package com.controlstatements;
+package com.switchstatements;
 
 public class JavaSwitchEnumExample {
 	public enum Day {
